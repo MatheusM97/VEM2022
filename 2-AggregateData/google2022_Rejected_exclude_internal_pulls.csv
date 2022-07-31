@@ -1,0 +1,16 @@
+sample,tempo para fechamento,tempo merge,closed_count,merged_count,not_merged_count,framework
+googlesamples/android-AppUsageStatistics,0.0,,1.0,0.0,1.0,Android
+googlesamples/android-custom-lint-rules,138.0,,1.0,0.0,1.0,Android
+googlesamples/android-play-publisher-api,1.0,,1.0,0.0,1.0,Android
+googlesamples/android-play-safetynet,143.0,,1.0,0.0,1.0,Android
+googlesamples/android-testdpc,636.75,,4.0,0.0,4.0,Android
+googlesamples/android-testing-templates,8.0,,1.0,0.0,1.0,Android
+googlesamples/android-vision,110.66666666666667,,3.0,0.0,3.0,Android
+googlesamples/android-vulkan-tutorials,340.0,,1.0,0.0,1.0,Android
+googlesamples/assistant-sdk-python,0.0,,1.0,0.0,1.0,Android
+googlesamples/cloud-polymer-go,0.0,,1.0,0.0,1.0,Android
+googlesamples/easypermissions,36.23529411764706,,17.0,0.0,17.0,Android
+googlesamples/google-photos,24.0,,4.0,0.0,4.0,Android
+googlesamples/google-services,11.9,,10.0,0.0,10.0,Android
+googlesamples/mlkit,10.866666666666667,,15.0,0.0,15.0,Android
+googlesamples/unity-jar-resolver,130.28571428571428,,7.0,0.0,7.0,Android
