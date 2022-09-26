@@ -1,0 +1,155 @@
+,repository,fileContribuiting
+0,spring-guides/gs-rest-service,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+1,spring-guides/gs-scheduling-tasks,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+2,spring-guides/gs-consuming-rest,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+3,spring-guides/gs-gradle,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+4,spring-guides/gs-maven,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+5,spring-guides/gs-relational-data-access,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+6,spring-guides/gs-uploading-files,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+7,spring-guides/gs-authenticating-ldap,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+8,spring-guides/gs-messaging-redis,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+9,spring-guides/gs-messaging-rabbitmq,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+10,spring-guides/gs-accessing-data-neo4j,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+11,spring-guides/gs-validating-form-input,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+12,spring-guides/gs-actuator-service,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+13,spring-guides/gs-messaging-jms,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+14,spring-guides/gs-batch-processing,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+15,spring-guides/gs-securing-web,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+16,spring-guides/gs-rest-hateoas,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+17,spring-guides/gs-accessing-data-gemfire,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+18,spring-guides/gs-integration,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+19,spring-guides/gs-caching-gemfire,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+20,spring-guides/gs-managing-transactions,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+21,spring-guides/gs-accessing-data-jpa,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+22,spring-guides/gs-accessing-data-mongodb,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+23,spring-guides/gs-serving-web-content,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+24,spring-guides/gs-convert-jar-to-war,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+25,spring-guides/gs-async-method,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+26,spring-guides/gs-handling-form-submission,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+27,spring-guides/understanding,
+28,spring-guides/gs-spring-boot,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+29,spring-guides/gs-messaging-stomp-websocket,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+30,spring-guides/gs-sts,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+31,spring-guides/gs-consuming-rest-angularjs,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+32,spring-guides/getting-started-guides,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+33,spring-guides/gs-consuming-rest-jquery,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+34,spring-guides/getting-started-macros,
+35,spring-guides/gs-rest-service-cors,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+36,spring-guides/gs-consuming-web-service,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+37,spring-guides/gs-accessing-data-rest,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+38,spring-guides/gs-accessing-neo4j-data-rest,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+39,spring-guides/gs-accessing-mongodb-data-rest,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+40,spring-guides/gs-accessing-gemfire-data-rest,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+41,spring-guides/gs-producing-web-service,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+42,spring-guides/gs-caching,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+43,spring-guides/quoters,
+44,spring-guides/tut-rest,
+45,spring-guides/gs-sts-cloud-foundry-deployment,
+46,spring-guides/tut-spring-security-and-angular-js,"The code for this guide is open in github. Please send pull requests for proposed changes. If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+47,spring-guides/topical-guides,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+48,spring-guides/gs-spring-boot-docker,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+49,spring-guides/drone-aggregator,
+50,spring-guides/issue-aggregator,
+51,spring-guides/gs-intellij-idea,
+52,spring-guides/tut-react-and-spring-data-rest,
+53,spring-guides/gs-crud-with-vaadin,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+54,spring-guides/draft-gs-statemachine,
+55,spring-guides/tut-spring-boot-oauth2,"The code for this guide is open in github. Please send pull requests for proposed changes. If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+56,spring-guides/gs-service-registration-and-discovery,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+57,spring-guides/gs-centralized-configuration,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+58,spring-guides/gs-routing-and-filtering,
+59,spring-guides/top-spring-security-architecture,
+60,spring-guides/gs-testing-web,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+61,spring-guides/gs-accessing-data-mysql,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+62,spring-guides/gs-multi-module,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+63,spring-guides/gs-testing-restdocs,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+64,spring-guides/spring-guides-ci,
+65,spring-guides/gs-messaging-gcp-pubsub,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+66,spring-guides/gs-reactive-rest-service,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+67,spring-guides/gs-contract-rest,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+68,spring-guides/gs-accessing-vault,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+69,spring-guides/gs-vault-config,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+70,spring-guides/gs-spring-data-reactive-redis,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+71,spring-guides/gs-spring-boot-for-azure,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+72,spring-guides/gs-gateway,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+73,spring-guides/tut-spring-boot-kotlin,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+74,spring-guides/top-spring-boot-docker,
+75,spring-guides/gs-spring-cloud-loadbalancer,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+76,spring-guides/gs-spring-cloud-stream,
+77,spring-guides/gs-spring-cloud-dataflow,
+78,spring-guides/gs-spring-cloud-task,
+79,spring-guides/gs-spring-boot-kubernetes,
+80,spring-guides/gs-accessing-data-r2dbc,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+81,spring-guides/gs-cloud-circuit-breaker,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+82,spring-guides/top-spring-on-kubernetes,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+83,spring-guides/gs-tanzu-observability,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
+84,spring-guides/tut-spring-webflux-kotlin-rsocket,
+85,spring-guides/tut-metrics-and-tracing,
+86,spring-guides/gs-guides-with-vscode,"If you have not previously done so, please fill out and
+submit the https://cla.pivotal.io/sign/spring[Contributor License Agreement]."
