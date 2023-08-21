@@ -1,0 +1,25 @@
+sample,tempo para fechamento,tempo merge,closed_count,merged_count,not_merged_count,framework
+spring-guides/getting-started-guides,19.5,,4.0,0.0,4.0,Spring
+spring-guides/gs-accessing-data-r2dbc,68.0,,1.0,0.0,1.0,Spring
+spring-guides/gs-accessing-data-rest,44.0,,1.0,0.0,1.0,Spring
+spring-guides/gs-centralized-configuration,52.333333333333336,,3.0,0.0,3.0,Spring
+spring-guides/gs-crud-with-vaadin,47.0,,1.0,0.0,1.0,Spring
+spring-guides/gs-gateway,116.0,,1.0,0.0,1.0,Spring
+spring-guides/gs-gradle,0.4,,5.0,0.0,5.0,Spring
+spring-guides/gs-maven,15.714285714285714,,7.0,0.0,7.0,Spring
+spring-guides/gs-messaging-stomp-websocket,0.0,,1.0,0.0,1.0,Spring
+spring-guides/gs-multi-module,0.0,,2.0,0.0,2.0,Spring
+spring-guides/gs-producing-web-service,2.0,,1.0,0.0,1.0,Spring
+spring-guides/gs-reactive-rest-service,0.0,,1.0,0.0,1.0,Spring
+spring-guides/gs-rest-service,0.0,,1.0,0.0,1.0,Spring
+spring-guides/gs-securing-web,0.0,,2.0,0.0,2.0,Spring
+spring-guides/gs-serving-web-content,0.0,,1.0,0.0,1.0,Spring
+spring-guides/gs-spring-boot,78.0,,4.0,0.0,4.0,Spring
+spring-guides/gs-spring-boot-docker,68.0,,2.0,0.0,2.0,Spring
+spring-guides/gs-uploading-files,39.0,,1.0,0.0,1.0,Spring
+spring-guides/gs-validating-form-input,20.0,,2.0,0.0,2.0,Spring
+spring-guides/top-spring-boot-docker,112.0,,2.0,0.0,2.0,Spring
+spring-guides/top-spring-security-architecture,0.0,,1.0,0.0,1.0,Spring
+spring-guides/tut-react-and-spring-data-rest,63.0,,2.0,0.0,2.0,Spring
+spring-guides/tut-rest,58.5,,2.0,0.0,2.0,Spring
+spring-guides/tut-spring-boot-kotlin,1.0,,1.0,0.0,1.0,Spring

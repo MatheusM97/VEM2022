@@ -1,0 +1,1313 @@
+# how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your sample apps and patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement
+(cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an [individual cla]
+    (http://code.google.com/legal/individual-cla-v1.0.html).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a [corporate cla]
+    (http://code.google.com/legal/corporate-cla-v1.0.html).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. sign a contributor license agreement, if you have not yet done so (see
+   details above).
+1. create your change to the repo in question.
+    * fork the desired repo, develop and test your code changes.
+    * ensure that your code is clear and comprehensible.
+    * ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+1. the repo owner will review your request. if it is approved, the change will
+   be merged. if it needs additional work, the repo owner will respond with
+   useful comments.
+
+## contributing a new sample app
+
+1. sign a contributor license agreement, if you have not yet done so (see
+   details above).
+1. create your own repo for your app following this naming convention:
+    * mirror-{app-name}-{language or platform}
+    * apps: quickstart, photohunt-server, photohunt-client
+    * example:  mirror-quickstart-android
+    * for multi-language apps, concatenate the primary languages like this:
+      mirror-photohunt-server-java-python.
+
+1. create your sample app in this repo.
+    * be sure to clone the readme.md, contributing.md and license files from the
+      googlesamples repo.
+    * ensure that your code is clear and comprehensible.
+    * ensure that your code has an appropriate set of unit tests which all pass.
+    * instructional value is the top priority when evaluating new app proposals for
+      this collection of repos.
+1. submit a request to fork your repo in googlesamples organization.
+1. the repo owner will review your request. if it is approved, the sample will
+   be merged. if it needs additional work, the repo owner will respond with
+   useful comments.
+ # how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your sample apps and patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement (cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an [individual cla]
+    (https://cla.developers.google.com).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a [corporate cla]
+    (https://cla.developers.google.com).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. submit an issue describing your proposed change to the repo in question.
+1. the repo owner will respond to your issue promptly.
+1. if your proposed change is accepted, and you haven't already done so, sign a
+   contributor license agreement (see details above).
+1. fork the desired repo, develop and test your code changes.
+1. ensure that your code adheres to the existing style in the sample to which
+   you are contributing. refer to the
+   [android code style guide]
+   (https://source.android.com/source/code-style.html) for the
+   recommended coding standards for this organization.
+1. ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+
+ # how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your sample apps and patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement (cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an [individual cla]
+    (https://cla.developers.google.com).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a [corporate cla]
+    (https://cla.developers.google.com).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. submit an issue describing your proposed change to the repo in question.
+1. the repo owner will respond to your issue promptly.
+1. if your proposed change is accepted, and you haven't already done so, sign a
+   contributor license agreement (see details above).
+1. fork the desired repo, develop and test your code changes.
+1. ensure that your code adheres to the existing style in the sample to which
+   you are contributing. refer to the
+   [android code style guide]
+   (https://source.android.com/source/code-style.html) for the
+   recommended coding standards for this organization.
+1. ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+
+ want to contribute? great! first, read this page (including the small print at the end).
+
+### before you contribute
+
+before we can use your code, you must sign the
+[google individual contributor license agreement](https://developers.google.com/open-source/cla/individual?csw=1)
+(cla), which you can do online. the cla is necessary mainly because you own the
+copyright to your changes, even after your contribution becomes part of our
+codebase, so we need your permission to use and distribute your code. we also
+need to be sure of various other things—for instance that you'll tell us if you
+know that your code infringes on other people's patents. you don't have to sign
+the cla until after you've submitted your code for review and a member has
+approved it, but you must do it before we can put your code into our codebase.
+before you start working on a larger contribution, you should get in touch with
+us first through the issue tracker with your idea so that we can help out and
+possibly guide you. coordinating up front makes it much easier to avoid
+frustration later on.
+
+### code reviews
+
+all submissions, including submissions by project members, require review. we
+use github pull requests for this purpose.
+
+### the small print
+
+contributions made by corporations are covered by a different agreement than
+the one above, the software grant and corporate contributor license agreement.
+ # how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your sample apps and patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement
+(cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an [individual cla]
+    (https://developers.google.com/open-source/cla/individual).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a [corporate cla]
+    (https://developers.google.com/open-source/cla/corporate).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. submit an issue describing your proposed change to the repo in question.
+1. the repo owner will respond to your issue promptly.
+1. if your proposed change is accepted, and you haven't already done so, sign a
+   contributor license agreement (see details above).
+1. fork the desired repo, develop and test your code changes.
+1. ensure that your code adheres to the existing style in the sample to which
+   you are contributing. refer to the
+   [google cloud platform samples style guide]
+   (https://github.com/googlecloudplatform/template/wiki/style.html) for the
+   recommended coding standards for this organization.
+1. ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+
+ 
+# how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your sample apps and patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement
+(cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an
+    [individual cla](http://code.google.com/legal/individual-cla-v1.0.html).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a
+    [corporate cla](http://code.google.com/legal/corporate-cla-v1.0.html).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. sign a contributor license agreement, if you have not yet done so (see
+   details above).
+1. create your change to the repo in question.
+    * fork the desired repo, develop and test your code changes.
+    * ensure that your code is clear and comprehensible.
+    * ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+1. the repo owner will review your request. if it is approved, the change will
+   be merged. if it needs additional work, the repo owner will respond with
+   useful comments.
+
+## contributing a new sample app
+
+1. sign a contributor license agreement, if you have not yet done so (see
+   details above).
+1. create your own repo for your app following this naming convention:
+    * mirror-{app-name}-{language or platform}
+    * apps: quickstart, photohunt-server, photohunt-client
+    * example:  mirror-quickstart-android
+    * for multi-language apps, concatenate the primary languages like this:
+      mirror-photohunt-server-java-python.
+
+1. create your sample app in this repo.
+    * be sure to clone the readme.md, contributing.md and license files from the
+      googlecast repo.
+    * ensure that your code is clear and comprehensible.
+    * ensure that your code has an appropriate set of unit tests which all pass.
+    * instructional value is the top priority when evaluating new app proposals for
+      this collection of repos.
+1. submit a request to fork your repo in googlesamples organization.
+1. the repo owner will review your request. if it is approved, the sample will
+   be merged. if it needs additional work, the repo owner will respond with
+   useful comments.
+ # how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your sample apps and patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement
+(cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an
+    [individual cla](https://developers.google.com/open-source/cla/individual).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a
+    [corporate cla](https://developers.google.com/open-source/cla/corporate).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. submit an issue describing your proposed change to the repo in question.
+1. the repo owner will respond to your issue promptly.
+1. if your proposed change is accepted, and you haven't already done so, sign a
+   contributor license agreement (see details above).
+1. fork the desired repo, develop and test your code changes.
+1. ensure that your code adheres to the existing style in the sample to which
+   you are contributing. refer to the
+   [google cloud platform samples style guide](https://github.com/googlecloudplatform/template/wiki/style.html)
+   for the recommended coding standards for this organization.
+1. ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+
+ not found
+ want to contribute? great! first, read this page (including the small print at the end).
+
+### before you contribute
+before we can use your code, you must sign the
+[google individual contributor license agreement](https://developers.google.com/open-source/cla/individual?csw=1)
+(cla), which you can do online. the cla is necessary mainly because you own the
+copyright to your changes, even after your contribution becomes part of our
+codebase, so we need your permission to use and distribute your code. we also
+need to be sure of various other things — for instance that you'll tell us if you
+know that your code infringes on other people's patents. you don't have to sign
+the cla until after you've submitted your code for review and a member has
+approved it, but you must do it before we can put your code into our codebase.
+before you start working on a larger contribution, you should get in touch with
+us first through the issue tracker with your idea so that we can help out and
+possibly guide you. coordinating up front makes it much easier to avoid
+frustration later on.
+
+### code reviews
+all submissions, including submissions by project members, require review. we
+use github pull requests for this purpose.
+
+### the small print
+contributions made by corporations are covered by a different agreement than
+the one above, the software grant and corporate contributor license agreement. # how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your sample apps and patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement
+(cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an [individual cla]
+    (http://code.google.com/legal/individual-cla-v1.0.html).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a [corporate cla]
+    (http://code.google.com/legal/corporate-cla-v1.0.html).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. sign a contributor license agreement, if you have not yet done so (see
+   details above).
+1. create your change to the repo in question.
+    * fork the desired repo, develop and test your code changes.
+    * ensure that your code is clear and comprehensible.
+    * ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+1. the repo owner will review your request. if it is approved, the change will
+   be merged. if it needs additional work, the repo owner will respond with
+   useful comments.
+
+ # how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your sample apps and patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement
+(cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an [individual cla]
+    (https://developers.google.com/open-source/cla/individual).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a [corporate cla]
+    (https://developers.google.com/open-source/cla/corporate).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. submit an issue describing your proposed change to the repo in question.
+1. the repo owner will respond to your issue promptly.
+1. if your proposed change is accepted, and you haven't already done so, sign a
+   contributor license agreement (see details above).
+1. fork the desired repo, develop and test your code changes.
+1. ensure that your code adheres to the existing style in the sample to which
+   you are contributing. refer to the
+   [google cloud platform samples style guide]
+   (https://github.com/googlecloudplatform/template/wiki/style.html) for the
+   recommended coding standards for this organization.
+1. ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+
+ 
+# contributor license agreements
+
+we'd love to accept your code patches! however, before we can take them, we have to clear a couple of legal hurdles.
+
+- please fill out either the individual or corporate contributor license agreement.
+  - if you are an individual writing original source code and are sure you own the intellectual property, then you'll need to sign an individual cla available at https://developers.google.com/open-source/cla/individual.
+  - if you work for a company that wants to allow you to contribute your work to this client library, then you'll need to sign a corporate cla available at https://developers.google.com/open-source/cla/corporate.
+
+follow either of the two links above to access the appropriate cla and instructions on how to sign and return it. once we receive the cla, we'll add you to the official list of contributors and will be able to accept your patches.
+
+# submitting patches
+
+- sign a contributor license agreement (see above).
+- create an issue on the library issue tracker if there isn't one already. use this issue to co-ordinate the changes with the library maintainer.
+- fork the library, make the changes and send a [pull request](https://help.github.com/articles/using-pull-requests).
+- the library maintainer will work with you to review and apply the patch.
+
+# if you can't become a contributor
+
+if you can't become a contributor, but wish to share some code that illustrates an issue / shows how an issue may be fixed, then you can attach your changes on the issue tracker. we will use this code to troubleshoot the issue and fix it, but will not use this code in the library unless the steps to submit patches are done.
+ # how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your sample apps and patches! before we can take them, we 
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement
+(cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an [individual cla]
+    (http://code.google.com/legal/individual-cla-v1.0.html).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a [corporate cla]
+    (http://code.google.com/legal/corporate-cla-v1.0.html).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. sign a contributor license agreement, if you have not yet done so (see
+   details above).
+1. create your change to the repo in question.
+    * fork the desired repo, develop and test your code changes.
+    * ensure that your code is clear and comprehensible.
+    * ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+1. the repo owner will review your request. if it is approved, the change will
+   be merged. if it needs additional work, the repo owner will respond with
+   useful comments.
+ want to contribute? great! first, read this page (including the small print at
+the end).
+
+### before you contribute
+before we can use your code, you must sign the
+[google individual contributor license agreement]
+(https://cla.developers.google.com/about/google-individual)
+(cla), which you can do online. the cla is necessary mainly because you own the
+copyright to your changes, even after your contribution becomes part of our
+codebase, so we need your permission to use and distribute your code. we also
+need to be sure of various other things—for instance that you'll tell us if you
+know that your code infringes on other people's patents. you don't have to sign
+the cla until after you've submitted your code for review and a member has
+approved it, but you must do it before we can put your code into our codebase.
+before you start working on a larger contribution, you should get in touch with
+us first through the issue tracker with your idea so that we can help out and
+possibly guide you. coordinating up front makes it much easier to avoid
+frustration later on.
+
+### code reviews
+all submissions, including submissions by project members, require review. we
+use github pull requests for this purpose.
+
+### the small print
+contributions made by corporations are covered by a different agreement than
+the one above, the
+[software grant and corporate contributor license agreement]
+(https://cla.developers.google.com/about/google-corporate).
+ want to contribute? great! first, read this page (including the small print at the end).
+
+### before you contribute
+before we can use your code, you must sign the
+[google individual contributor license agreement]
+(https://cla.developers.google.com/about/google-individual)
+(cla), which you can do online. the cla is necessary mainly because you own the
+copyright to your changes, even after your contribution becomes part of our
+codebase, so we need your permission to use and distribute your code. we also
+need to be sure of various other things—for instance that you'll tell us if you
+know that your code infringes on other people's patents. you don't have to sign
+the cla until after you've submitted your code for review and a member has
+approved it, but you must do it before we can put your code into our codebase.
+before you start working on a larger contribution, you should get in touch with
+us first through the issue tracker with your idea so that we can help out and
+possibly guide you. coordinating up front makes it much easier to avoid
+frustration later on.
+
+### code reviews
+all submissions, including submissions by project members, require review. we
+use github pull requests for this purpose.
+
+### the small print
+contributions made by corporations are covered by a different agreement than
+the one above, the
+[software grant and corporate contributor license agreement]
+(https://cla.developers.google.com/about/google-corporate). # how to become a contributor and submit your own code
+
+## contributor license agreements
+we'd love to accept your sample apps and patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement
+(cla).
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an [individual cla]
+    (https://cla.developers.google.com/clas).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a [corporate cla]
+    (https://developers.google.com/open-source/cla/corporate).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+1. submit an issue describing your proposed change to the repo in question.
+1. the repo owner will respond to your issue promptly.
+1. if your proposed change is accepted, and you haven't already done so, sign a
+   contributor license agreement (see details above).
+1. fork the desired repo, develop and test your code changes.
+1. ensure that your code adheres to the existing style in the sample to which
+   you are contributing. refer to the
+   [google cloud platform samples style guide]
+   (https://github.com/googlecloudplatform/template/wiki/style.html) for the
+   recommended coding standards for this organization.
+1. ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+ # how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your sample apps and patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement (cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an [individual cla](https://developers.google.com/open-source/cla/individual).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a [corporate cla](https://developers.google.com/open-source/cla/corporate).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. submit an issue describing your proposed change to the repo in question.
+1. the repo owner will respond to your issue promptly.
+1. if your proposed change is accepted, and you haven't already done so, sign a
+   contributor license agreement (see details above).
+1. fork the desired repo, develop and test your code changes.
+1. ensure that your code adheres to the existing style in the sample to which
+   you are contributing. refer to
+   the [pep-8](https://www.python.org/dev/peps/pep-0008/) style guide for the
+   recommended coding standards for this project.
+1. ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+
+ # how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your sample apps and patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement
+(cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an [individual cla]
+    (http://code.google.com/legal/individual-cla-v1.0.html).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a [corporate cla]
+    (http://code.google.com/legal/corporate-cla-v1.0.html).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. sign a contributor license agreement, if you have not yet done so (see
+   details above).
+1. create your change to the repo in question.
+    * fork the desired repo, develop and test your code changes.
+    * ensure that your code is clear and comprehensible.
+    * ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+1. the repo owner will review your request. if it is approved, the change will
+   be merged. if it needs additional work, the repo owner will respond with
+   useful comments.
+
+## contributing a new sample app
+
+1. sign a contributor license agreement, if you have not yet done so (see
+   details above).
+1. create your own repo for your app following this naming convention:
+    * mirror-{app-name}-{language or platform}
+    * apps: quickstart, photohunt-server, photohunt-client
+    * example:  mirror-quickstart-android
+    * for multi-language apps, concatenate the primary languages like this:
+      mirror-photohunt-server-java-python.
+
+1. create your sample app in this repo.
+    * be sure to clone the readme.md, contributing.md and license files from the
+      googlesamples repo.
+    * ensure that your code is clear and comprehensible.
+    * ensure that your code has an appropriate set of unit tests which all pass.
+    * instructional value is the top priority when evaluating new app proposals for
+      this collection of repos.
+1. submit a request to fork your repo in googlesamples organization.
+1. the repo owner will review your request. if it is approved, the sample will
+   be merged. if it needs additional work, the repo owner will respond with
+   useful comments.
+ # how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your sample apps and patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement (cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an 
+    [individual cla](https://developers.google.com/open-source/cla/individual).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a 
+    [corporate cla](https://developers.google.com/open-source/cla/corporate).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. submit an issue describing your proposed change to the repo in question.
+1. the repo owner will respond to your issue promptly.
+1. if your proposed change is accepted, and you haven't already done so, sign a
+   contributor license agreement (see details above).
+1. fork the desired repo, develop and test your code changes.
+1. ensure that your code adheres to the existing style in the sample to which
+   you are contributing. refer to the
+   [android code style guide](https://source.android.com/source/code-style.html) for the
+   recommended coding standards for this organization.
+1. ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+
+ # how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement
+(cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an [individual cla]
+    (http://code.google.com/legal/individual-cla-v1.0.html).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a [corporate cla]
+    (http://code.google.com/legal/corporate-cla-v1.0.html).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. sign a contributor license agreement, if you have not yet done so (see
+   details above).
+2. create your change to the repo in question.
+    * fork the desired repo, develop and test your code changes.
+    * ensure that your code is clear and comprehensible.
+    * ensure that your code has an appropriate set of unit tests which all pass.
+3. submit a pull request.
+4. the repo owner will review your request. if it is approved, the change will
+   be merged. if it needs additional work, the repo owner will respond with
+   useful comments. # how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your sample apps and patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement (cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an [individual cla]
+    (https://developers.google.com/open-source/cla/individual).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a [corporate cla]
+    (https://developers.google.com/open-source/cla/corporate).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. submit an issue describing your proposed change to the repo in question.
+1. the repo owner will respond to your issue promptly.
+1. if your proposed change is accepted, and you haven't already done so, sign a
+   contributor license agreement (see details above).
+1. fork the desired repo, develop and test your code changes.
+1. ensure that your code adheres to the existing style in the sample to which
+   you are contributing. refer to the
+   [google c++ style guide]
+   (https://google.github.io/styleguide/cppguide.html) for the
+   recommended coding standards for this organization.
+1. ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+ want to contribute? great! first, read this page (including the small print at the end).
+
+### before you contribute
+before we can use your code, you must sign the
+[google individual contributor license agreement](https://developers.google.com/open-source/cla/individual?csw=1)
+(cla), which you can do online. the cla is necessary mainly because you own the
+copyright to your changes, even after your contribution becomes part of our
+codebase, so we need your permission to use and distribute your code. we also
+need to be sure of various other things — for instance that you'll tell us if you
+know that your code infringes on other people's patents. you don't have to sign
+the cla until after you've submitted your code for review and a member has
+approved it, but you must do it before we can put your code into our codebase.
+before you start working on a larger contribution, you should get in touch with
+us first through the issue tracker with your idea so that we can help out and
+possibly guide you. coordinating up front makes it much easier to avoid
+frustration later on.
+
+### code reviews
+all submissions, including submissions by project members, require review. we
+use github pull requests for this purpose.
+
+### the small print
+contributions made by corporations are covered by a different agreement than
+the one above, the software grant and corporate contributor license agreement. # how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your sample apps and patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement (cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an [individual cla]
+    (https://developers.google.com/open-source/cla/individual).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a [corporate cla]
+    (https://developers.google.com/open-source/cla/corporate).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. submit an issue describing your proposed change to the repo in question.
+1. the repo owner will respond to your issue promptly.
+1. if your proposed change is accepted, and you haven't already done so, sign a
+   contributor license agreement (see details above).
+1. fork the desired repo, develop and test your code changes.
+1. ensure that your code adheres to the existing style in the sample to which
+   you are contributing. refer to the
+   [android code style guide]
+   (https://source.android.com/source/code-style.html) for the
+   recommended coding standards for this organization.
+1. ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+
+ # how to contribute
+
+we'd love to accept your patches and contributions to this project. there are
+just a few small guidelines you need to follow.
+
+## contributor license agreement
+
+contributions to this project must be accompanied by a contributor license
+agreement. you (or your employer) retain the copyright to your contribution;
+this simply gives us permission to use and redistribute your contributions as
+part of the project. head over to <https://cla.developers.google.com/> to see
+your current agreements on file or to sign a new one.
+
+you generally only need to submit a cla once, so if you've already submitted one
+(even if it was for a different project), you probably don't need to do it
+again.
+
+## code reviews
+
+all submissions, including submissions by project members, require review. we
+use github pull requests for this purpose. consult
+[github help](https://help.github.com/articles/about-pull-requests/) for more
+information on using pull requests. # how to contribute
+
+we'd love to accept your patches and contributions to this project. there are
+just a few small guidelines you need to follow.
+
+## contributor license agreement
+
+contributions to this project must be accompanied by a contributor license
+agreement. you (or your employer) retain the copyright to your contribution,
+this simply gives us permission to use and redistribute your contributions as
+part of the project. head over to <https://cla.developers.google.com/> to see
+your current agreements on file or to sign a new one.
+
+you generally only need to submit a cla once, so if you've already submitted one
+(even if it was for a different project), you probably don't need to do it
+again.
+
+## code reviews
+
+all submissions, including submissions by project members, require review. we
+use github pull requests for this purpose. consult
+[github help](https://help.github.com/articles/about-pull-requests/) for more
+information on using pull requests.
+
+## community guidelines
+
+this project follows [google's open source community
+guidelines](https://opensource.google.com/conduct/).
+ # how to contribute
+
+we'd love to accept your patches and contributions to this project. there are
+just a few small guidelines you need to follow.
+
+## contributor license agreement
+
+contributions to this project must be accompanied by a contributor license
+agreement. you (or your employer) retain the copyright to your contribution,
+this simply gives us permission to use and redistribute your contributions as
+part of the project. head over to <https://cla.developers.google.com/> to see
+your current agreements on file or to sign a new one.
+
+you generally only need to submit a cla once, so if you've already submitted one
+(even if it was for a different project), you probably don't need to do it
+again.
+
+## code reviews
+
+all submissions, including submissions by project members, require review. we
+use github pull requests for this purpose. consult
+[github help](https://help.github.com/articles/about-pull-requests/) for more
+information on using pull requests.
+
+## community guidelines
+
+this project follows [google's open source community
+guidelines](https://opensource.google.com/conduct/).
+ # how to contribute
+
+we'd love to accept your patches and contributions to this project. there are
+just a few small guidelines you need to follow.
+
+## contributor license agreement
+
+contributions to this project must be accompanied by a contributor license
+agreement. you (or your employer) retain the copyright to your contribution,
+this simply gives us permission to use and redistribute your contributions as
+part of the project. head over to <https://cla.developers.google.com/> to see
+your current agreements on file or to sign a new one.
+
+you generally only need to submit a cla once, so if you've already submitted one
+(even if it was for a different project), you probably don't need to do it
+again.
+
+## code reviews
+
+all submissions, including submissions by project members, require review. we
+use github pull requests for this purpose. consult
+[github help](https://help.github.com/articles/about-pull-requests/) for more
+information on using pull requests.
+
+## community guidelines
+
+this project follows [google's open source community
+guidelines](https://opensource.google.com/conduct/).
+ how to become a contributor and submit your own code
+contributor license agreements
+we'd love to accept your sample apps and patches! before we can take them, we have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement (cla).
+
+if you are an individual writing original source code and you‘re sure you own the intellectual property, then you’ll need to sign an [individual cla] (https://developers.google.com/open-source/cla/individual).
+if you work for a company that wants to allow you to contribute your work, then you'll need to sign a [corporate cla] (https://developers.google.com/open-source/cla/corporate).
+follow either of the two links above to access the appropriate cla and instructions for how to sign and return it. once we receive it, we'll be able to accept your pull requests.
+
+contributing a patch
+submit an issue describing your proposed change to the repo in question.
+the repo owner will respond to your issue promptly.
+if your proposed change is accepted, and you haven't already done so, sign a contributor license agreement (see details above).
+fork the desired repo, develop and test your code changes.
+ensure that your code adheres to the existing style in the sample to which you are contributing. refer to the [google cloud platform samples style guide] (https://github.com/googlecloudplatform/template/wiki/style.html) for the recommended coding standards for this organization.
+ensure that your code has an appropriate set of unit tests which all pass.
+submit a pull request.
+ how to become a contributor and submit your own code
+contributor license agreements
+we'd love to accept your sample apps and patches! before we can take them, we have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement (cla).
+
+if you are an individual writing original source code and you‘re sure you own the intellectual property, then you’ll need to sign an [individual cla] (https://developers.google.com/open-source/cla/individual).
+if you work for a company that wants to allow you to contribute your work, then you'll need to sign a [corporate cla] (https://developers.google.com/open-source/cla/corporate).
+follow either of the two links above to access the appropriate cla and instructions for how to sign and return it. once we receive it, we'll be able to accept your pull requests.
+
+contributing a patch
+submit an issue describing your proposed change to the repo in question.
+the repo owner will respond to your issue promptly.
+if your proposed change is accepted, and you haven't already done so, sign a contributor license agreement (see details above).
+fork the desired repo, develop and test your code changes.
+ensure that your code adheres to the existing style in the sample to which you are contributing. refer to the [google cloud platform samples style guide] (https://github.com/googlecloudplatform/template/wiki/style.html) for the recommended coding standards for this organization.
+ensure that your code has an appropriate set of unit tests which all pass.
+submit a pull request.
+ # how to contribute
+
+we'd love to accept your patches and contributions to this project. there are
+just a few small guidelines you need to follow.
+
+## contributor license agreement
+
+contributions to this project must be accompanied by a contributor license
+agreement. you (or your employer) retain the copyright to your contribution;
+this simply gives us permission to use and redistribute your contributions as
+part of the project. head over to <https://cla.developers.google.com/> to see
+your current agreements on file or to sign a new one.
+
+you generally only need to submit a cla once, so if you've already submitted one
+(even if it was for a different project), you probably don't need to do it
+again.
+
+## code reviews
+
+all submissions, including submissions by project members, require review. we
+use github pull requests for this purpose. consult
+[github help](https://help.github.com/articles/about-pull-requests/) for more
+information on using pull requests.
+
+## community guidelines
+
+this project follows [google's open source community
+guidelines](https://opensource.google.com/conduct/).
+ # how to contribute
+
+we'd love to accept your patches and contributions to this project. there are
+just a few small guidelines you need to follow.
+
+## contributor license agreement
+
+contributions to this project must be accompanied by a contributor license
+agreement. you (or your employer) retain the copyright to your contribution;
+this simply gives us permission to use and redistribute your contributions as
+part of the project. head over to <https://cla.developers.google.com/> to see
+your current agreements on file or to sign a new one.
+
+you generally only need to submit a cla once, so if you've already submitted one
+(even if it was for a different project), you probably don't need to do it
+again.
+
+## code reviews
+
+all submissions, including submissions by project members, require review. we
+use github pull requests for this purpose. consult
+[github help](https://help.github.com/articles/about-pull-requests/) for more
+information on using pull requests.
+
+## community guidelines
+
+this project follows [google's open source community
+guidelines](https://opensource.google.com/conduct/).
+ # how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your sample apps and patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement
+(cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an [individual cla]
+    (https://developers.google.com/open-source/cla/individual).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a [corporate cla]
+    (https://developers.google.com/open-source/cla/corporate).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. submit an issue describing your proposed change to the repo in question.
+1. the repo owner will respond to your issue promptly.
+1. if your proposed change is accepted, and you haven't already done so, sign a
+   contributor license agreement (see details above).
+1. fork the desired repo, develop and test your code changes.
+1. ensure that your code adheres to the existing style in the sample to which
+   you are contributing. refer to the
+   [google cloud platform samples style guide]
+   (https://github.com/googlecloudplatform/template/wiki/style.html) for the
+   recommended coding standards for this organization.
+1. ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+
+ # how to contribute
+
+we'd love to accept your patches and contributions to this project. there are
+just a few small guidelines you need to follow.
+
+## contributor license agreement
+
+contributions to this project must be accompanied by a contributor license
+agreement. you (or your employer) retain the copyright to your contribution;
+this simply gives us permission to use and redistribute your contributions as
+part of the project. head over to <https://cla.developers.google.com/> to see
+your current agreements on file or to sign a new one.
+
+you generally only need to submit a cla once, so if you've already submitted one
+(even if it was for a different project), you probably don't need to do it
+again.
+
+## code reviews
+
+all submissions, including submissions by project members, require review. we
+use github pull requests for this purpose. consult
+[github help](https://help.github.com/articles/about-pull-requests/) for more
+information on using pull requests.
+
+## community guidelines
+
+this project follows [google's open source community
+guidelines](https://opensource.google.com/conduct/). # how to contribute
+
+we'd love to accept your patches and contributions to this project. there are
+just a few small guidelines you need to follow.
+
+## contributor license agreement
+
+contributions to this project must be accompanied by a contributor license
+agreement. you (or your employer) retain the copyright to your contribution;
+this simply gives us permission to use and redistribute your contributions as
+part of the project. head over to <https://cla.developers.google.com/> to see
+your current agreements on file or to sign a new one.
+
+you generally only need to submit a cla once, so if you've already submitted one
+(even if it was for a different project), you probably don't need to do it
+again.
+
+## code reviews
+
+all submissions, including submissions by project members, require review. we
+use github pull requests for this purpose. consult
+[github help](https://help.github.com/articles/about-pull-requests/) for more
+information on using pull requests.
+
+## community guidelines
+
+this project follows [google's open source community
+guidelines](https://opensource.google.com/conduct/). # how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your sample apps and patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement
+(cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an [individual cla](https://developers.google.com/open-source/cla/individual).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a [corporate cla](https://developers.google.com/open-source/cla/corporate).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. submit an issue describing your proposed change to the repo in question.
+1. the repo owner will respond to your issue promptly.
+1. if your proposed change is accepted, and you haven't already done so, sign a
+   contributor license agreement (see details above).
+1. fork the desired repo, develop and test your code changes.
+1. ensure that your code adheres to the existing style in the sample to which
+   you are contributing. refer to the
+   [google cloud platform samples style guide](https://github.com/googlecloudplatform/template/wiki/style.html) for the
+   recommended coding standards for this organization.
+1. ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+ # how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your sample apps and patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement
+(cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an [individual cla](https://developers.google.com/open-source/cla/individual).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a [corporate cla](https://developers.google.com/open-source/cla/corporate).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. submit an issue describing your proposed change to the repo in question.
+1. the repo owner will respond to your issue promptly.
+1. if your proposed change is accepted, and you haven't already done so, sign a
+   contributor license agreement (see details above).
+1. fork the desired repo, develop and test your code changes.
+1. ensure that your code adheres to the existing style in the sample to which
+   you are contributing. refer to the
+   [google cloud platform samples style guide](https://github.com/googlecloudplatform/template/wiki/style.html) for the
+   recommended coding standards for this organization.
+1. ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+ # how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your sample apps and patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement
+(cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an [individual cla](https://developers.google.com/open-source/cla/individual).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a [corporate cla](https://developers.google.com/open-source/cla/corporate).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. submit an issue describing your proposed change to the repo in question.
+1. the repo owner will respond to your issue promptly.
+1. if your proposed change is accepted, and you haven't already done so, sign a
+   contributor license agreement (see details above).
+1. fork the desired repo, develop and test your code changes.
+1. ensure that your code adheres to the existing style in the sample to which
+   you are contributing. refer to the
+   [google cloud platform samples style guide](https://github.com/googlecloudplatform/template/wiki/style.html) for the
+   recommended coding standards for this organization.
+1. ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+ # how to become a contributor and submit your own code
+
+## contributor license agreements
+
+we'd love to accept your sample apps and patches! before we can take them, we
+have to jump a couple of legal hurdles.
+
+please fill out either the individual or corporate contributor license agreement
+(cla).
+
+  * if you are an individual writing original source code and you're sure you
+    own the intellectual property, then you'll need to sign an [individual cla](https://developers.google.com/open-source/cla/individual).
+  * if you work for a company that wants to allow you to contribute your work,
+    then you'll need to sign a [corporate cla](https://developers.google.com/open-source/cla/corporate).
+
+follow either of the two links above to access the appropriate cla and
+instructions for how to sign and return it. once we receive it, we'll be able to
+accept your pull requests.
+
+## contributing a patch
+
+1. submit an issue describing your proposed change to the repo in question.
+1. the repo owner will respond to your issue promptly.
+1. if your proposed change is accepted, and you haven't already done so, sign a
+   contributor license agreement (see details above).
+1. fork the desired repo, develop and test your code changes.
+1. ensure that your code adheres to the existing style in the sample to which
+   you are contributing. refer to the
+   [google cloud platform samples style guide](https://github.com/googlecloudplatform/template/wiki/style.html) for the
+   recommended coding standards for this organization.
+1. ensure that your code has an appropriate set of unit tests which all pass.
+1. submit a pull request.
+ # how to contribute
+
+we'd love to accept your patches and contributions to this project. there are
+just a few small guidelines you need to follow.
+
+## contributor license agreement
+
+contributions to this project must be accompanied by a contributor license
+agreement. you (or your employer) retain the copyright to your contribution;
+this simply gives us permission to use and redistribute your contributions as
+part of the project. head over to <https://cla.developers.google.com/> to see
+your current agreements on file or to sign a new one.
+
+you generally only need to submit a cla once, so if you've already submitted one
+(even if it was for a different project), you probably don't need to do it
+again.
+
+## code reviews
+
+all submissions, including submissions by project members, require review. we
+use github pull requests for this purpose. consult
+[github help](https://help.github.com/articles/about-pull-requests/) for more
+information on using pull requests.
+
+## community guidelines
+
+this project follows [google's open source community
+guidelines](https://opensource.google/conduct/).
+ # how to contribute
+
+we'd love to accept your patches and contributions to this project. there are
+just a few small guidelines you need to follow.
+
+## contributor license agreement
+
+contributions to this project must be accompanied by a contributor license
+agreement (cla). you (or your employer) retain the copyright to your
+contribution; this simply gives us permission to use and redistribute your
+contributions as part of the project. head over to
+<https://cla.developers.google.com/> to see your current agreements on file or
+to sign a new one.
+
+you generally only need to submit a cla once, so if you've already submitted one
+(even if it was for a different project), you probably don't need to do it
+again.
+
+## community guidelines
+
+this project follows
+[google's open source community guidelines](https://opensource.google/conduct/).
+ # how to contribute
+
+we'd love to accept your patches and contributions to this project. there are
+just a few small guidelines you need to follow.
+
+## contributor license agreement
+
+contributions to this project must be accompanied by a contributor license
+agreement (cla). you (or your employer) retain the copyright to your
+contribution; this simply gives us permission to use and redistribute your
+contributions as part of the project. head over to
+<https://cla.developers.google.com/> to see your current agreements on file or
+to sign a new one.
+
+you generally only need to submit a cla once, so if you've already submitted one
+(even if it was for a different project), you probably don't need to do it
+again.
+
+## code reviews
+
+all submissions, including submissions by project members, require review. we
+use github pull requests for this purpose. consult
+[github help](https://help.github.com/articles/about-pull-requests/) for more
+information on using pull requests.
+
+## community guidelines
+
+this project follows
+[google's open source community guidelines](https://opensource.google/conduct/).
+ # how to contribute
+
+we'd love to accept your patches and contributions to this project. there are
+just a few small guidelines you need to follow.
+
+## contributor license agreement
+
+contributions to this project must be accompanied by a contributor license
+agreement (cla). you (or your employer) retain the copyright to your
+contribution; this simply gives us permission to use and redistribute your
+contributions as part of the project. head over to
+<https://cla.developers.google.com/> to see your current agreements on file or
+to sign a new one.
+
+you generally only need to submit a cla once, so if you've already submitted one
+(even if it was for a different project), you probably don't need to do it
+again.
+
+## code reviews
+
+all submissions, including submissions by project members, require review. we
+use github pull requests for this purpose. consult
+[github help](https://help.github.com/articles/about-pull-requests/) for more
+information on using pull requests.
+
+## community guidelines
+
+this project follows
+[google's open source community guidelines](https://opensource.google/conduct/). # how to contribute
+
+we'd love to accept your patches and contributions to this project. there are
+just a few small guidelines you need to follow.
+
+## contributor license agreement
+
+contributions to this project must be accompanied by a contributor license
+agreement (cla). you (or your employer) retain the copyright to your
+contribution; this simply gives us permission to use and redistribute your
+contributions as part of the project. head over to
+<https://cla.developers.google.com/> to see your current agreements on file or
+to sign a new one.
+
+you generally only need to submit a cla once, so if you've already submitted one
+(even if it was for a different project), you probably don't need to do it
+again.
+
+## code reviews
+
+all submissions, including submissions by project members, require review. we
+use github pull requests for this purpose. consult
+[github help](https://help.github.com/articles/about-pull-requests/) for more
+information on using pull requests.
+
+## community guidelines
+
+this project follows
+[google's open source community guidelines](https://opensource.google/conduct/).

@@ -1,0 +1,14 @@
+,framework,login,seguidores,numero_prs_criados,numero_merges,numero_prs_criado_mergeado,numero_prs_criado_n_mergeado,numero_prs_n_mergeado_fechado,numero_prs_fechado,numero_merges_exclude_auto_merge,numero_revisoes_exclude_auto_revisado,auto_revisado,tempo experiencia(dias)
+0,Spring,Buzzardo,29.0,0,75,0,0,25,100,75,100,0,621
+1,Spring,dsyer,3425.0,0,57,0,0,15,72,57,72,0,619
+2,Spring,martinlippert,,0,0,0,0,0,0,0,0,0,619
+3,Spring,jzheaux,340.0,0,1,0,0,0,1,1,1,0,0
+4,Spring,artembilan,562.0,0,1,0,0,0,1,1,1,0,0
+5,Spring,benas,462.0,0,2,0,0,0,2,2,2,0,0
+6,Spring,bclozel,1161.0,0,1,0,0,3,4,1,4,0,175
+7,Spring,gregturn,742.0,0,5,0,0,4,9,5,9,0,503
+8,Spring,mstahv,562.0,0,4,0,0,0,4,4,4,0,131
+9,Spring,snicoll,1675.0,0,2,0,0,0,2,2,2,0,89
+10,Spring,ryanjbaxter,708.0,0,2,0,0,0,2,2,2,0,26
+11,Spring,sdeleuze,893.0,0,4,0,0,0,4,4,4,0,192
+12,Spring,OlegDokuka,581.0,0,1,0,0,1,2,1,2,0,10
